@@ -1,11 +1,12 @@
 //Size of each data type in cpp
-//Time complexity O(1)
+
 
 #include <iostream>
 using namespace std;
 
 int main()
 {
+    cout << "hello world!";
     cout << "Size of char : " << sizeof(char) << endl;//1
     cout << "Size of int : " << sizeof(int) << endl;//4
     cout << "Size of long : " << sizeof(long) << endl;//4
